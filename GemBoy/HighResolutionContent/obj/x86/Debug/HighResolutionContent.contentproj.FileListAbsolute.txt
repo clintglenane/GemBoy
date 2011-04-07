@@ -1,0 +1,2 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\Platformer1\Platformer1\HighResolutionContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\HighResolutionContent\obj\x86\Debug\ResolveAssemblyReference.cache
