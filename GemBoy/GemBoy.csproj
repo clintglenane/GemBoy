@@ -106,6 +106,7 @@
   <ItemGroup>
     <Content Include="Game.ico" />
     <Content Include="GameThumbnail.png" />
+    <Content Include="readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <NestedContentProject Include="HighResolutionContent\HighResolutionContent.contentproj">
