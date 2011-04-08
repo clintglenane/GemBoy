@@ -7,7 +7,7 @@
       <Importer>WmaImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sounds\ExitReached.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sounds\ExitReached.xnb</Output>
       <Time>2009-05-14T10:57:56+02:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>WmaImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sounds\GemCollected.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sounds\GemCollected.xnb</Output>
       <Time>2009-05-14T10:57:56+02:00</Time>
     </Item>
     <Item>
@@ -25,8 +25,8 @@
       <Importer>WmaImporter</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sounds\Music.xnb</Output>
-      <Extra>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sounds\Music.wma</Extra>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sounds\Music.xnb</Output>
+      <Extra>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sounds\Music.wma</Extra>
       <Time>2009-05-14T10:57:56+02:00</Time>
     </Item>
     <Item>
@@ -35,7 +35,7 @@
       <Importer>WmaImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sounds\PlayerFall.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sounds\PlayerFall.xnb</Output>
       <Time>2009-05-14T10:57:56+02:00</Time>
     </Item>
     <Item>
@@ -44,7 +44,7 @@
       <Importer>WmaImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sounds\PlayerJump.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sounds\PlayerJump.xnb</Output>
       <Time>2009-05-14T10:57:56+02:00</Time>
     </Item>
     <Item>
@@ -53,7 +53,7 @@
       <Importer>WmaImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sounds\PlayerKilled.xnb</Output>
       <Time>2009-05-14T10:57:56+02:00</Time>
     </Item>
     <Item>
@@ -62,7 +62,7 @@
       <Importer>WmaImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sounds\MonsterKilled.xnb</Output>
       <Time>2009-05-14T10:57:56+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -73,7 +73,7 @@
       <RootDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\SharedContent\</RootDirectory>
       <LoggerRootDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\</LoggerRootDirectory>
       <IntermediateDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\SharedContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\</OutputDirectory>
+      <OutputDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

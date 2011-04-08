@@ -60,7 +60,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>6fcndmkDZ8eqdZnrc1EkUnj1UjQ=</dsig:DigestValue>
+        <dsig:DigestValue>AU75qxk6ONKznkFJynjVvmumg+4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -241,7 +241,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>Vi/RCOZLwv+XLyeUYTG8Vxlgmj4=</dsig:DigestValue>
+      <dsig:DigestValue>5PZhm0xJi+THP52SaMLAuHX1biU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\Sounds\Music.xnb" size="123">
@@ -584,6 +584,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>N6sIKk70N/dO7kx2//gVuYQArws=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="readme.txt" size="9">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>FAWD5vqyJKrQHzZd2kendTIMNY0=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

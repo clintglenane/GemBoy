@@ -20,7 +20,7 @@
     <GenerateManifests>true</GenerateManifests>
     <SignManifests>true</SignManifests>
     <StartupObject>GemBoy.Program</StartupObject>
-    <PublishUrl>publish\</PublishUrl>
+    <PublishUrl>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Publish\GemBoy\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -40,7 +40,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>bin\x86\Debug</OutputPath>
+    <OutputPath>..\..\..\..\Builds\GemBoy\</OutputPath>
     <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>

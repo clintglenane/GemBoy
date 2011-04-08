@@ -4,14 +4,14 @@
   <description asmv2:publisher="IBM" asmv2:product="GemBoy" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="GemBoy.exe.manifest" size="26257">
+    <dependentAssembly dependencyType="install" codebase="GemBoy.exe.manifest" size="26624">
       <assemblyIdentity name="GemBoy.exe" version="1.0.0.6" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>XDCWqTpeisOb+h8qP+5aObRpurM=</dsig:DigestValue>
+        <dsig:DigestValue>nG9pVwADibGrLjdKQFg7m9sFwv4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

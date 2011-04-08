@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sprites\Gem.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sprites\Gem.xnb</Output>
       <Time>2009-05-14T10:57:52+02:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Tiles\Exit.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Tiles\Exit.xnb</Output>
       <Time>2009-05-14T10:57:56+02:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sprites\Player\Celebrate.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sprites\Player\Celebrate.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sprites\Player\Die.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sprites\Player\Die.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sprites\Player\Idle.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sprites\Player\Idle.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sprites\Player\Jump.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sprites\Player\Jump.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sprites\Player\Run.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sprites\Player\Run.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sprites\MonsterA\Idle.xnb</Output>
       <Time>2009-05-14T10:57:52+02:00</Time>
     </Item>
     <Item>
@@ -79,7 +79,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sprites\MonsterA\Run.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -88,7 +88,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sprites\MonsterB\Idle.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sprites\MonsterB\Idle.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -97,7 +97,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sprites\MonsterB\Run.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -106,7 +106,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sprites\MonsterC\Idle.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -115,7 +115,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sprites\MonsterC\Run.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -124,7 +124,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sprites\MonsterD\Idle.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -133,7 +133,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sprites\MonsterD\Run.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -142,7 +142,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Tiles\BlockA0.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Tiles\BlockA0.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -151,7 +151,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Tiles\BlockA1.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Tiles\BlockA1.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -160,7 +160,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Tiles\BlockA2.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Tiles\BlockA2.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -169,7 +169,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Tiles\BlockA3.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Tiles\BlockA3.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -178,7 +178,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Tiles\BlockA4.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Tiles\BlockA4.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -187,7 +187,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Tiles\BlockA5.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Tiles\BlockA5.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -196,7 +196,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Tiles\BlockA6.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Tiles\BlockA6.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -205,7 +205,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Tiles\BlockB0.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Tiles\BlockB0.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -214,7 +214,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Tiles\BlockB1.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Tiles\BlockB1.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -223,7 +223,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Tiles\Platform.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Tiles\Platform.xnb</Output>
       <Time>2011-04-07T16:05:45.8569743+02:00</Time>
     </Item>
     <Item>
@@ -232,7 +232,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Backgrounds\Layer0_0.xnb</Output>
       <Time>2009-05-14T10:57:52+02:00</Time>
     </Item>
     <Item>
@@ -241,7 +241,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Backgrounds\Layer0_1.xnb</Output>
       <Time>2009-05-14T10:57:52+02:00</Time>
     </Item>
     <Item>
@@ -250,7 +250,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Backgrounds\Layer0_2.xnb</Output>
       <Time>2009-05-14T10:57:52+02:00</Time>
     </Item>
     <Item>
@@ -259,7 +259,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Backgrounds\Layer1_0.xnb</Output>
       <Time>2009-05-14T10:57:52+02:00</Time>
     </Item>
     <Item>
@@ -268,7 +268,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Backgrounds\Layer1_1.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Backgrounds\Layer1_1.xnb</Output>
       <Time>2009-05-14T10:57:52+02:00</Time>
     </Item>
     <Item>
@@ -277,7 +277,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Backgrounds\Layer1_2.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Backgrounds\Layer1_2.xnb</Output>
       <Time>2009-05-14T10:57:52+02:00</Time>
     </Item>
     <Item>
@@ -286,7 +286,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Backgrounds\Layer2_0.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Backgrounds\Layer2_0.xnb</Output>
       <Time>2009-05-14T10:57:52+02:00</Time>
     </Item>
     <Item>
@@ -295,7 +295,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Backgrounds\Layer2_1.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Backgrounds\Layer2_1.xnb</Output>
       <Time>2009-05-14T10:57:52+02:00</Time>
     </Item>
     <Item>
@@ -304,7 +304,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Backgrounds\Layer2_2.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Backgrounds\Layer2_2.xnb</Output>
       <Time>2009-05-14T10:57:52+02:00</Time>
     </Item>
     <Item>
@@ -313,7 +313,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Overlays\you_died.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Overlays\you_died.xnb</Output>
       <Time>2009-05-14T10:57:52+02:00</Time>
     </Item>
     <Item>
@@ -322,7 +322,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Overlays\you_lose.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Overlays\you_lose.xnb</Output>
       <Time>2009-05-14T10:57:52+02:00</Time>
     </Item>
     <Item>
@@ -331,7 +331,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Overlays\you_win.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Overlays\you_win.xnb</Output>
       <Time>2009-05-14T10:57:52+02:00</Time>
     </Item>
     <Item>
@@ -340,7 +340,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sprites\MonsterA\Die.xnb</Output>
       <Time>2009-05-14T10:57:52+02:00</Time>
     </Item>
     <Item>
@@ -349,7 +349,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sprites\MonsterB\Die.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -358,7 +358,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sprites\MonsterC\Die.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -367,7 +367,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Sprites\MonsterD\Die.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Sprites\MonsterD\Die.xnb</Output>
       <Time>2009-05-14T10:57:54+02:00</Time>
     </Item>
     <Item>
@@ -376,7 +376,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Tiles\hGlider1.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Tiles\hGlider1.xnb</Output>
       <Time>2011-04-07T15:37:03.7944743+02:00</Time>
     </Item>
     <Item>
@@ -385,7 +385,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Tiles\hGlider2.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Tiles\hGlider2.xnb</Output>
       <Time>2011-04-07T15:36:47.6225993+02:00</Time>
     </Item>
     <Item>
@@ -394,7 +394,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Tiles\hGlider4.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Tiles\hGlider4.xnb</Output>
       <Time>2011-04-07T15:35:37.9819743+02:00</Time>
     </Item>
     <Item>
@@ -403,7 +403,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\Fonts\Hud.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\Fonts\Hud.xnb</Output>
       <Time>2009-05-14T10:57:52+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -414,7 +414,7 @@
       <RootDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\HighResolutionContent\</RootDirectory>
       <LoggerRootDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\</LoggerRootDirectory>
       <IntermediateDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\HighResolutionContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Project1\GemBoy\GemBoy\bin\x86\Debug\Content\</OutputDirectory>
+      <OutputDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Builds\GemBoy\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
